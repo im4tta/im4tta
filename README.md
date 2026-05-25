@@ -1,37 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20im4tta%20🚀&fontSize=42&animation=twinkling" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20im4tta%20👋&fontSize=42&animation=twinkling" alt="Header Animation" />
 </p>
 
 ## 🧑‍💻 About Me
 
-I am a passionate developer who loves turning complex problems into elegant, functional code. Whether I'm building sleek frontend UIs or spinning up robust backends, I thrive on the thrill of creating things that live on the internet.
+Let's be completely real—I am not a traditional line-by-line coder. **I build things by partnering with AI.** I treat large language models as my engineering team, prompting logic into existence and orchestrating code to transform concepts into working digital realities. 
 
-* 🔭 **Current Focus:** Leveling up full-stack engineering practices.
-* 🌱 **Learning:** Diving deeper into system architecture and web performance.
-* 💬 **Ask me about:** JavaScript/TypeScript, Python, or why dark mode is non-negotiable.
-* ⚡ **Fun Fact:** I write code significantly faster when lo-fi beats are playing in the background.
+Beyond the screen, I have a deep love and appreciation for **Khmer culture and arts** 🇰🇭✨. From the breathtaking symmetry of Angkorian architecture to the elegance of classical dance and traditional music, I draw rich inspiration from Cambodia's unique heritage.
+
+* 🧠 **My Style:** Prompt engineering, system integration, and high-level logic design.
+* 🇰🇭 **Passions:** Exploring cultural heritage, art preservation, and creative technology.
+* ⚡ **Fun Fact:** I don't spend hours debugging; I just have intense, highly constructive debates with AI models.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🤖 My AI-Powered Toolkit
 
-### Frontend & Design
+### Core AI Collaborators
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+### Technologies I Orchestrate
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -39,8 +37,10 @@ I am a passionate developer who loves turning complex problems into elegant, fun
 ## 📊 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im4tta&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="im4tta's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im4tta&theme=radical&border_radius=10" alt="im4tta's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im4tta&show_icons=true&theme=radical&border_radius=10" alt="im4tta's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im4tta&theme=radical&border_radius=10" alt="im4tta's GitHub Streak" />
 </p>
 
 ### 📈 Weekly Activity Graph
@@ -53,14 +53,11 @@ I am a passionate developer who loves turning complex problems into elegant, fun
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  [![Website](https://img.shields.io/badge/tmeta.blog-0f3460?style=for-the-badge&logo=safari&logoColor=00d4aa)](https://tmeta.blog)
+  [![Telegram](https://img.shields.io/badge/Telegram-0f3460?style=for-the-badge&logo=telegram&logoColor=00d4aa)](https://t.me/meta2345)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://linkedin.com/in/themeta)
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/svgcounter/count/?user=im4tta&style=flat-square&color=blue" alt="Profile Views Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fim4tta&count_bg=%23007ACC&title_bg=%231E293B&icon=&icon_color=%23E2E8F0&title=Profile+Views&edge_flat=false" alt="Profile Views Counter" />
 </p>
