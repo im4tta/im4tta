@@ -16,11 +16,15 @@ Beyond the screen, I have a deep love and appreciation for **Khmer culture and a
 
 ## 🤖 My AI-Powered Toolkit
 
-### Core AI Collaborators
+### Core AI Collaborators & IDEs
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini_👑_Top-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Windsurf-0052CC?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Trae_AI-00C4B4?style=for-the-badge&logo=ai&logoColor=white" alt="Trae" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Kiro_/_Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" alt="Kiro" />
+  <img src="https://img.shields.io/badge/OpenCode-24292E?style=for-the-badge&logo=github&logoColor=white" alt="OpenCode" />
 </p>
 
 ### Technologies I Orchestrate
@@ -37,7 +41,7 @@ Beyond the screen, I have a deep love and appreciation for **Khmer culture and a
 ## 📊 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im4tta&show_icons=true&theme=radical&border_radius=10" alt="im4tta's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=im4tta&show_icons=true&theme=radical&border_radius=10" alt="im4tta's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=im4tta&theme=radical&border_radius=10" alt="im4tta's GitHub Streak" />
@@ -53,9 +57,15 @@ Beyond the screen, I have a deep love and appreciation for **Khmer culture and a
 ## 🤝 Connect with Me
 
 <p align="left">
-  [![Website](https://img.shields.io/badge/tmeta.blog-0f3460?style=for-the-badge&logo=safari&logoColor=00d4aa)](https://tmeta.blog)
-  [![Telegram](https://img.shields.io/badge/Telegram-0f3460?style=for-the-badge&logo=telegram&logoColor=00d4aa)](https://t.me/meta2345)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://linkedin.com/in/themeta)
+  <a href="https://tmeta.blog" target="_blank">
+    <img src="https://img.shields.io/badge/tmeta.blog-0f3460?style=for-the-badge&logo=safari&logoColor=00d4aa" alt="Website" />
+  </a>
+  <a href="https://t.me/meta2345" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0f3460?style=for-the-badge&logo=telegram&logoColor=00d4aa" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/themeta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=00d4aa" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
