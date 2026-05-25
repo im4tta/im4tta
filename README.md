@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=520&lines=Building+open+tools+for+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Prompt+engineer+%C2%B7+AI-powered+builder;Maps+%C2%B7+Bots+%C2%B7+Open+Data+%C2%B7+PWA;Deep+love+for+Khmer+culture+%F0%9F%87%B0%F0%9F%87%AD%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=520&lines=Building+open+tools+for+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;AI-powered+builder+%C2%B7+Orchestrator;Maps+%C2%B7+Bots+%C2%B7+Open+Data+%C2%B7+PWA;Deep+love+for+Khmer+culture+%F0%9F%87%B0%F0%9F%87%AD%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@ I'm not a traditional line-by-line coder — **I build by partnering with AI**. 
 
 Beyond the screen, I have a deep love for **Khmer culture and arts** 🇰🇭✨ — from the breathtaking symmetry of Angkorian architecture to classical dance and traditional music.
 
-- 🧠 **My Style:** Prompt engineering, system integration, high-level logic design
+- 🧠 **My Style:** Partnering with AI, system integration, high-level logic design
 - 🇰🇭 **Passions:** Cultural heritage, art preservation, creative technology
 - ⚡ **Fun fact:** I don't debug for hours; I have highly constructive debates with AI models
 
