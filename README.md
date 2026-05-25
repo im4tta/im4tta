@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,1D9E75&height=200&section=header&text=Hi%20there%2C%20I'm%20im4tta%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Cambodia%20%F0%9F%87%B0%F0%9F%87%AD&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,1D9E75&height=200&section=header&text=Hi%20there%2C%20I'm%20im4tta%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Builder%20%C2%B7%20Cambodia%20%F0%9F%87%B0%F0%9F%87%AD&descAlignY=58&descSize=16" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=520&lines=Building+open+tools+for+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Water+resources+%26+construction+engineer;Prompt+engineer+%C2%B7+AI-powered+builder;Maps+%C2%B7+Bots+%C2%B7+Open+Data+%C2%B7+PWA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=520&lines=Building+open+tools+for+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Prompt+engineer+%C2%B7+AI-powered+builder;Maps+%C2%B7+Bots+%C2%B7+Open+Data+%C2%B7+PWA;Deep+love+for+Khmer+culture+%F0%9F%87%B0%F0%9F%87%AD%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,6 @@ I'm not a traditional line-by-line coder — **I build by partnering with AI**. 
 Beyond the screen, I have a deep love for **Khmer culture and arts** 🇰🇭✨ — from the breathtaking symmetry of Angkorian architecture to classical dance and traditional music.
 
 - 🧠 **My Style:** Prompt engineering, system integration, high-level logic design
-- 🏗 **Day job:** Water resources & construction engineer — MOWRAM projects, Cambodia
 - 🇰🇭 **Passions:** Cultural heritage, art preservation, creative technology
 - ⚡ **Fun fact:** I don't debug for hours; I have highly constructive debates with AI models
 
@@ -53,27 +52,7 @@ Beyond the screen, I have a deep love for **Khmer culture and arts** 🇰🇭✨
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🗺 **[mapkh.space](https://mapkh.space)** | Community map with flood risk tagging for Cambodia | Next.js · Google Maps · ODC GeoJSON |
-| 🤖 **[mefapibot](https://github.com/im4tta/mefapibot)** | Telegram bot aggregating Cambodian public data from MEF Open Data | Telegraf · Express · PostgreSQL |
-| 🏗 **Site Daily Report** | Offline-first PWA for construction daily reporting (C.NO) | Next.js · Supabase · Zustand |
-| 🌧 **Weather Report App** | Monthly weather report from CSV with Chart.js + PDF export | HTML · Chart.js |
-| 📰 **Cambodia News Directory** | Playwright scraper + mobile-first news directory with Khmer UI | Node.js · Playwright |
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=im4tta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9&ring_color=1D9E75" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im4tta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" height="160" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
