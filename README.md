@@ -8,12 +8,42 @@
 
 </div>
 
-I build by **partnering with AI** — prompting logic into existence instead of writing it line by line. Deep love for **Khmer culture and arts** 🇰🇭✨, from Angkorian architecture to classical dance.
+```
+                     im4tta@cambodia
+                     ---------------
+     _@@_    _@@_     OS:             Cambodia (Phnom Penh) 🇰🇭
+    @@//@@  @@\\@@    Host:           Independent Builder
+   @@/ //@@@@\\ \@@   Kernel:         AI-assisted Development
+   @@   ((@@))   @@   IDE:            VSCode · OpenCode
+    @@   \\//   @@
+     @@_  ~~  _@@     Languages.Code: TypeScript, Python, JavaScript
+    @@ ~@    @~ @@    Languages.Web:  Next.js, React, Node.js
+    @  @@    @@  @    Languages.Data: PostgreSQL, Supabase
+    @  @@    @@  @    Languages.Real: Khmer, English
+     @@@@    @@@@
+                      Hobbies.Focus:  GIS/Maps · Khmer NLP
+    ####     ####                     Telegram Bots · Open Data KH
+                      Hobbies.Other:  Khmer culture & arts,
+                                      Angkorian architecture,
+                                      classical songs
+
+                     Contact.Portfolio: imeta.asia
+                     Contact.GitHub:    github.com/im4tta
+
+                     --------------------------------
+                     I build by partnering with AI —
+                     prompting logic into existence
+                     instead of writing it line by line.
+```
 
 **Stack:** Next.js · TypeScript · Python · React · Node.js · Supabase · PostgreSQL · Tailwind
 **Tools:** Gemini · Claude · Windsurf · Ollama
 **Focus:** GIS/Maps · Khmer NLP · Telegram bots · Open Data KH · PWA
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=im4tta&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,1D9E75&height=90&section=footer" />
+</div>
